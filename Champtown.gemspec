@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["terica.douglas@gmail.com"]
   spec.summary       = %q{web app for athletes; self-directed; develop maximum potential; reach meaningful goals}
   spec.description   = %q{Champion Buddy: AI assistant, tracks effort~results; map to mastery; snowflake unicorn}
-  spec.homepage      = "http://domainforproject.com/"
+  spec.homepage      = "http://www.github.com/Terica/Champtown"
   spec.license       = "MIT"
 
   spec.files         = ['lib/Champtown.rb']
