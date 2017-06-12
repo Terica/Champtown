@@ -1,8 +1,9 @@
 # Champtown
-website for amateur athletes
+Athletics/Personal Best
 
-Single sign on subscription web portal - The User wants an effective practice that almost guarntees improvement and bonding
-Interface will channel Vince Lombardi fire and Mr Miyagi determined spirit through graphics and story line - which becomes their story line.
+Single sign on subscription web portal - The User wants effective practice-session(s) that guarantees improvement. 
+
+Interface will channel Vince Lombardi "fire" and Mr Miyagi "determined spirit" through graphics and story line - which becomes their story line. Catch the esprit of the Champions!
 
 MODULES - based on coaching research. 4 Modules with 5 sub modules +-
 - Desire
